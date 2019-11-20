@@ -21,4 +21,4 @@ This “page” is hosted on GitHub, this is a platform mainly used by software 
 == A word about internet security (or, our privacy)
 To avoid having this picked up by search engines or used against us, please avoid mentioning the full names of the development, buildings, companies or people involved.
 There is also a technical solution in place (file named robots.txt) that requests search engines not to index this site – however not all search engines or sites who “archive” (copy) content adhere to it.
-*You are also encouraged not to use your own real names - or GitHub username who can identify you* (your email used in the account is unlikely to get exposed)
+*You are also encouraged not to use your own real names or a GitHub user that can identify you* (your email used to create the GitHub account is unlikely to get exposed).
