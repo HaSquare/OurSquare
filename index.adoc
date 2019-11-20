@@ -11,7 +11,7 @@ summary: OurSquare security plan review.
 :linkattrs:
 :imagesdir: ./media/
 
-This repository is to review the feature and the revised security plan for our square.
+This repository is to review the current and the revised security plan for our square.
 
 == Why this exists?
 As you may know, since the fences and security patrol taken down in the summer of 2019, we experienced multiple ASB and violence events in our Square, there were a few meetings with the management company, police, council reps and others, all addressed very specific issues but not reviewed the entire security plan and approach. Here we can review the existing plan and suggest practical improvement steps to the developer, council and management company to address.  
@@ -20,4 +20,4 @@ As you may know, since the fences and security patrol taken down in the summer o
 To avoid having this picked up by search engines, please avoid mentioning the full names of the development, buildings, companies or people involved.
 
 == Why is it here?
-This “page” is hosted on GitHub, this is a platform mainly used by software developer to store, review and document their code. It has great features which allow commenting and allowing us to either keep improving a single “master” brunch – or if we have disagreements, to fork into a new brunch(s) and later vote, propose as an option.
+This “page” is hosted on GitHub, this is a platform mainly used by software developers to store, review and document their code. It has great features which allow commenting and allowing us to either keep improving a single “master” brunch – or if we have disagreements, to fork into a new brunch(s) and later vote or propose as an option.
