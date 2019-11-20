@@ -1,9 +1,3 @@
----
-sidebar: sidebar
-permalink: index.adoc
-summary: OurSquare security plan review.
----
-
 = Our Square
 :hardbreaks:
 :nofooter:
@@ -12,6 +6,8 @@ summary: OurSquare security plan review.
 :imagesdir: ./media/
 
 This repository is to review the current and the revised security plan for our square.
+
+toc::[]
 
 == Why this exists?
 As you may know, since the fences and security patrol taken down in the summer of 2019, we experienced multiple ASB and violence events in our Square, there were a few meetings with the management company, police, council reps and others, all addressed very specific issues but not reviewed the entire security plan and approach. Here we can review the existing plan and suggest practical improvement steps to the developer, council and management company to address.  
